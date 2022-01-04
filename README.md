@@ -8,7 +8,7 @@ The Fabaceae or Leguminosae, commonly known as the legume, pea, or bean family, 
 
 # Methodology
 
-▪ Capturing absorption spectrums of White light getting transmitted directly through tender leaves. 
+▪ Capturing absorption spectrums of White light getting transmitted directly through tender leaves.
 ▪ Analyzing the absorbance spectrums with various analyses techniques. 
 ▪ Identifying the peak wave lengths of absorbance and Intensities. 
 ▪ Capturing absorption spectrums of White light getting transmitted through a Slurry of leaves. 
