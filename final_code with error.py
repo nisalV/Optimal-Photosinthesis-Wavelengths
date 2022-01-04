@@ -1,12 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# # Take Home Experiment 6
-# ## Spectrum Analyzer
-
-# In[156]:
-
-
 import matplotlib.pyplot as plt
 import numpy as np
 from PIL import Image
